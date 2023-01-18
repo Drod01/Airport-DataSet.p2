@@ -1,9 +1,10 @@
 #Airport-Dataset2
 
-This project is a lab done in school which consist of multiple files that communicate togther using a makefile. This is the first time implementing on into my labs 
-which was a huge accomplishment for me. The project is a "Mission Control" lab that loads data (provided by the professor) from a CSV file and then in return we create
-queries on the data to then create data set. Using multiple path ways for the data sets to communicate and be sorted into seperate files to cross into one another using
-a makefile. 
+This project is a lab done in school which consist of multiple files that communicate togther using a makefile. This is the first 
+time implementing on into my labs 
+which was a huge accomplishment for me. The project is a "Mission Control" lab that loads data (provided by the professor) from 
+a CSV file and then in return we create
+queries on the data to then create data set. Using multiple path ways for the data sets to communicate and be sorted into seperate files to cross into one another using a makefile. 
 
 ## Getting Started
 
@@ -16,11 +17,18 @@ the same result if done correctly.
 
 Requirements for the software and other tools to build, test and push
 
-VS Code; used for coding and debugging of code errors (https://code.visualstudio.com/Download).
+VS Code; used for coding and debugging of code errors.
+    
+    https://code.visualstudio.com/Download
 
-MobaXTerm; used to deploy the code on school vpn not needed just need to test in school environment to ensure grader has smooth running of code (https://mobaxterm.mobatek.net/).
+MobaXTerm; used to deploy the code on school vpn not needed just need to test in school environment 
+to ensure grader has smooth running of code.                       
 
-Compiler GNU GCC; (https://gcc.gnu.org/).
+    https://mobaxterm.mobatek.net/
+
+Compiler GNU GCC
+
+    https://gcc.gnu.org/
 
 ### Installing
 
@@ -33,21 +41,17 @@ Run VS Code and ensure you have all proper extensions installed for smoother dev
 
 Ensure all files are downloaded and properly added to VS Code
 
-    The makefile should be connected already to the other files and should possibly not require any sort of file configuration.
+    The makefile should be connected already to the other files and should 
+    possibly not require any sort of file configuration.
 
 VS Code run
   
-    Once the files are open in VS Code; I used MobaXTerm to make sure the code would run properly and display all the neccesary information for the data sets needed.
+    Once the files are open in VS Code; I used MobaXTerm to make sure the code would run 
+    properly and display all the neccesary information for the data sets needed.
 
 ## Running the tests
 
-Once the test have been ran, it should display the data from the CSV file, sorted into 
-
-### Sample Tests
-
-Explain what these tests test and why
-
-    Give an example
+Once the test have been ran, it should display the data from the CSV file, sorted into the provided code files and once it is ran it would appear in console. 
 
 ### Style test
 
