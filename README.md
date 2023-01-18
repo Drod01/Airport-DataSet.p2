@@ -1,41 +1,47 @@
-# Airport-DataSet.p2
+#Airport-Dataset2
 
-This Airport dataset is a 
-
-Initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
+This project is a lab done in school which consist of multiple files that communicate togther using a makefile. This is the first time implementing on into my labs 
+which was a huge accomplishment for me. The project is a "Mission Control" lab that loads data (provided by the professor) from a CSV file and then in return we create
+queries on the data to then create data set. Using multiple path ways for the data sets to communicate and be sorted into seperate files to cross into one another using
+a makefile. 
 
 ## Getting Started
 
 These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
+your local machine for development and testing purposes. This was done on a primary local machine (most of the coding) as 
+the tesing environment of a live setting would be in a School VPN which we were required to test and ensure graders got l
+the same result if done correctly.
 
 ### Prerequisites
 
-Requirements for the software and other tools to build, test and push 
-- [Example 1](https://www.example.com)
-- [Example 2](https://www.example.com)
+Requirements for the software and other tools to build, test and push
+
+VS Code; used for coding and debugging of code errors (https://code.visualstudio.com/Download).
+
+MobaXTerm; used to deploy the code on school vpn not needed just need to test in school environment to ensure grader has smooth running of code (https://mobaxterm.mobatek.net/).
+
+Compiler GNU GCC; (https://gcc.gnu.org/).
 
 ### Installing
 
 A step by step series of examples that tell you how to get a development
 environment running
 
-Say what the step will be
+Run VS Code and ensure you have all proper extensions installed for smoother development cycle
 
-    Give the example
+    VS Code will give you a prompt to install certain extensions to help C code run properly. 
 
-And repeat
+Ensure all files are downloaded and properly added to VS Code
 
-    until finished
+    The makefile should be connected already to the other files and should possibly not require any sort of file configuration.
 
-End with an example of getting some data out of the system or using it
-for a little demo
+VS Code run
+  
+    Once the files are open in VS Code; I used MobaXTerm to make sure the code would run properly and display all the neccesary information for the data sets needed.
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Once the test have been ran, it should display the data from the CSV file, sorted into 
 
 ### Sample Tests
 
@@ -91,3 +97,4 @@ details
   - Hat tip to anyone whose code is used
   - Inspiration
   - etc
+
