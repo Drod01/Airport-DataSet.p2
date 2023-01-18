@@ -55,13 +55,14 @@ Once the test have been ran, it should display the data from the CSV file, sorte
 
 ### Style test
 
-Checks if the best practices and the right coding style has been used.
+While I don't use a specific coding style I believe staying true to a specific style of coding would really help with the flow of code and productivity.
 
-    Give an example
+For example; a coding style that could be used to make the code more readable as, (at least in my opinion) could be more readable to the users.
 
 ## Deployment
 
-Add additional notes to deploy this on a live system
+The deployment test were all done and graded based on MobaXTerm using school VPN to ensure it would work
+in that environment to get a proper exchange of code and run environments.
 
 ## Built With
 
@@ -83,6 +84,8 @@ repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
 
 ## Authors
 
+  - **David Rodriguez** - *Created README and Code Files* 
+  
   - **Billie Thompson** - *Provided README Template* -
     [PurpleBooth](https://github.com/PurpleBooth)
 
@@ -98,7 +101,8 @@ details
 
 ## Acknowledgments
 
-  - Hat tip to anyone whose code is used
-  - Inspiration
-  - etc
+  - Tucker Bilimek
+  - Roger
+  - Anthony 
+ 
 
